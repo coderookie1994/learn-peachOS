@@ -1,0 +1,17 @@
+Memory and hardware protection 
+
+Protected mode allows us to protect memory from being accessed
+
+Protected mode can prevent user programs talking with hardware
+
+Ring 0 -----> Ring 3
+
+Most privilidged -----> Least privilidged
+
+Ring 0 --> Kernel operates at this level
+Ring 1 --> Device drivers operate at this level
+Ring 2 --> Device drivers operate at this level
+Ring 3 --> Applications operate at this level
+
+These are enforced by the Processor
+

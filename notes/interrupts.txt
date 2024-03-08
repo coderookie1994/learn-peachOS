@@ -1,0 +1,5 @@
+What happens when an interrupt is invoked?
+    Processor is interrupted
+    Old state is saved onto the Stack
+    Interrupt is executed
+    

@@ -1,0 +1,15 @@
+CS Code Segment 
+SS Stack Segment
+DS Data Segment
+ES Extra Segment
+
+With segment registers and an offset we can calculate the absolute address for RAM
+How to calculate the absolute offset
+    Take the segment register and multiply it by 16 and add the offset
+    Eg :-
+        CS 0x7c0
+        Ass Origin 0
+        0x7c0 * 16 = 0x7c00
+        0x7c00 + 0
+
+lodsb uses DS:SI registers as segment and offset registers respectively.

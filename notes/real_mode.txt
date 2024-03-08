@@ -1,0 +1,4 @@
+Real Mode is the raw mode available to the operating system
+It has access to 1MB of RAM with 16 bit accessibility with no security
+It is based on the original design of the x86 architecture.
+Memory is accessed through the segmentation model.

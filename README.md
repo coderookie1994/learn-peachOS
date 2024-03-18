@@ -1,7 +1,7 @@
 # PeachOS
 https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/
 
-####These are my personal notes for the udemy course
+#### These are my personal notes for the udemy course
 
 ###### Prerequisites
 
